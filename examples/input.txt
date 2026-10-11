@@ -1,0 +1,1 @@
+Example input for expense note parsing.
